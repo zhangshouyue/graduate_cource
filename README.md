@@ -1,1 +1,1 @@
-We come from the stars, and we will return to the stars.
+#We come from the stars, and we will return to the stars.
