@@ -1,3 +1,1 @@
-# graduate_courcesdf dsf s sd
-# juputer notebook
-# astronimy
+We come from the stars, and we will return to the stars.
